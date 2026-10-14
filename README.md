@@ -44,7 +44,7 @@ This project analyzes Swiggy food delivery sales data in a single, filter-driven
 | Tool | Purpose |
 |---|---|
 | Microsoft Excel | Data cleaning and dashboard building |
-| PivotTables & PivotCharts | Summarizing and visualizing data |
+| Pivot Tables & Pivot Charts | Summarizing and visualizing data |
 | Slicers | Interactive filtering |
 | Filled Map Chart | State-wise sales view |
 | Conditional Formatting | Color scales in the quarterly table |
